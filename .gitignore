@@ -1,0 +1,11 @@
+# images-only allowlist: 画像 と README 以外はコミットさせない(誤って data/code/text を公開しない防御)
+*
+!*/
+!*.png
+!*.svg
+!*.jpg
+!*.jpeg
+!*.webp
+!*.gif
+!README.md
+!.gitignore
