@@ -1,8 +1,9 @@
 # images
 
-研究で作った図(プロット)を置いておくための作業用リポジトリ。研究メモの図版置き場であり、AI 研究アシスタント(ChatGPT / Claude)が図を読み取るために使っている。
+研究で作った図(プロット)を置いておくための作業用リポジトリ。研究メモの図版置き場であり、AIが図を読み取るために使用。
 
-AI アシスタントは画像を URL から読み取るとき GitHub の raw URL しか取得できないため、図をここに置いて raw URL から参照している。
+AI は画像を URL から読み取るとき GitHub の raw URL しか取得できないため、図をここに置いて raw URL から参照している。
+必要なときのみ public にする。
 
 > Working repository that holds figures (plots) from ongoing research, used so an AI research assistant can read the plots via GitHub raw URLs. It is part of a research note-taking workflow.
 
